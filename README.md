@@ -3,7 +3,7 @@
 ## brand colors
 
 - Primary Color
-- Primary Dark?
+- Primary Dark
 - Gray
 
 ## typography
